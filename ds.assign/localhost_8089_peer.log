@@ -1,9 +1,0 @@
-out. 21, 2024 10:24:22 DA TARDE tokenRing.peers.PeerM initLogger
-INFO: Peer name: m1, Host: m1, Port: 8089
-out. 21, 2024 10:24:22 DA TARDE tokenRing.peers.PeerM startPeer
-INFO: Peer started on port 8089
-out. 21, 2024 10:24:22 DA TARDE tokenRing.peers.PeerM startPeer
-INFO: Neighbour:
-m1
-out. 21, 2024 10:24:22 DA TARDE tokenRing.peers.PeerM acceptConnections
-INFO: Server socket created on port 8089
